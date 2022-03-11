@@ -1,1 +1,2 @@
-# gym
+# Gymapp
+Building gym app
